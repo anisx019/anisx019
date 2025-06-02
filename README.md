@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Mohammed Hanis</h1>
+Hey, I'm Mohammed Hanis
 <h3 align="center">I'm a Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anisx019&label=Profile%20views&color=0e75b6&style=flat" alt="anisx019" /> </p>
