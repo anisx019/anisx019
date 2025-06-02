@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hey, I'm Mohammed Hanis</h1>
 <h3 align="center">I'm a Full Stack Developer</h3>
 
