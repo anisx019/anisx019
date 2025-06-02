@@ -15,10 +15,3 @@ I'm a Full Stack Developer specializing in building scalable, end-to-end web app
   <img src="https://github-readme-stats.vercel.app/api?username=anisx019&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anisx019&theme=dark" alt="GitHub Streak" />
 </p>
-
-🤝 **Connect With Me**
-- [GitHub](https://github.com/anisx019)
-- [LinkedIn](https://www.linkedin.com/in/mohammedhanis/)
-- [Twitter](https://x.com/hanisx019)
-- [Website](https://hanisxportfolio.vercel.app/)
-- [Email](mailto:anisx019@gmail.com)
