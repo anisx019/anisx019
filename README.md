@@ -13,5 +13,5 @@ I'm a Full Stack Developer specializing in building scalable, end-to-end web app
 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anisx019&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anisx019&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanisx019&theme=dark" alt="GitHub Streak" />
 </p>
